@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import ProjectList from './ProjectList.js'
-import Toolbar from './Toolbar.js';
+import ProjectList from './ProjectList'
+import Toolbar from './Toolbar';
 
 export default function Portfolio() {
   const filters = ["All", "Websites", "Flayers", "Business Cards"];
